@@ -3,6 +3,7 @@ fun main() {
     val sqaureCabin= SeqaureCabin(10)
     
     with(sqaureCabin){
+    println("\n Square Cabin\n============")
     println("capcity:${capacity}")
     println("metrail:${buildingMaterial}")
      println("Has Room??:${hasroom()}") }
