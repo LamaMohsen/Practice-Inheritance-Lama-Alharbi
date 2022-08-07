@@ -1,5 +1,5 @@
 fun main() {
-    //create SeqaureCabin
+    
     val sqaureCabin= SeqaureCabin(10)
     
     with(sqaureCabin){
